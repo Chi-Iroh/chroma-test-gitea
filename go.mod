@@ -1,4 +1,4 @@
-module github.com/alecthomas/chroma/v2
+module github.com/Chi-Iroh/chroma-test-gitea/v2
 
 go 1.22
 

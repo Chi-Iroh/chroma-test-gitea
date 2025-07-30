@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/alecthomas/chroma/v2/formatters"
-	"github.com/alecthomas/chroma/v2/lexers"
-	"github.com/alecthomas/chroma/v2/styles"
+	"github.com/Chi-Iroh/chroma-test-gitea/v2/formatters"
+	"github.com/Chi-Iroh/chroma-test-gitea/v2/lexers"
+	"github.com/Chi-Iroh/chroma-test-gitea/v2/styles"
 	"gopkg.in/alecthomas/kingpin.v3-unstable"
 )
 

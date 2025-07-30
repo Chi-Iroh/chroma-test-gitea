@@ -3,7 +3,7 @@ package lexers
 import (
 	"strings"
 
-	. "github.com/alecthomas/chroma/v2" // nolint
+	. "github.com/Chi-Iroh/chroma-test-gitea/v2" // nolint
 )
 
 // Restructuredtext lexer.

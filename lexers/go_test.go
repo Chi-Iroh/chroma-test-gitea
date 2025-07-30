@@ -3,8 +3,8 @@ package lexers
 import (
 	"testing"
 
+	"github.com/Chi-Iroh/chroma-test-gitea/v2"
 	assert "github.com/alecthomas/assert/v2"
-	"github.com/alecthomas/chroma/v2"
 )
 
 func TestGoHTMLTemplateIssue126(t *testing.T) {

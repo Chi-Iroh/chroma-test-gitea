@@ -10,9 +10,9 @@ import (
 
 	assert "github.com/alecthomas/assert/v2"
 
-	"github.com/alecthomas/chroma/v2"
-	"github.com/alecthomas/chroma/v2/lexers"
-	"github.com/alecthomas/chroma/v2/styles"
+	"github.com/Chi-Iroh/chroma-test-gitea/v2"
+	"github.com/Chi-Iroh/chroma-test-gitea/v2/lexers"
+	"github.com/Chi-Iroh/chroma-test-gitea/v2/styles"
 )
 
 func TestCompressStyle(t *testing.T) {

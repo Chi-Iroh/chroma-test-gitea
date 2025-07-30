@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Chi-Iroh/chroma-test-gitea/v2"
 	assert "github.com/alecthomas/assert/v2"
-	"github.com/alecthomas/chroma/v2"
 )
 
 func TestClosestColour(t *testing.T) {
