@@ -1,11 +1,11 @@
-module github.com/alecthomas/chroma/v2/cmd/chromad
+module github.com/Chi-Iroh/chroma/v2/cmd/chromad
 
 go 1.22
 
 toolchain go1.24.5
 
 require (
-	github.com/alecthomas/chroma/v2 v2.19.0
+	github.com/Chi-Iroh/chroma/v2 v2.0.0-20250729112305-f05d8ef28898
 	github.com/alecthomas/kong v1.12.1
 	github.com/alecthomas/kong-hcl v1.0.1
 	github.com/gorilla/csrf v1.7.2
@@ -21,4 +21,4 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 )
 
-replace github.com/alecthomas/chroma/v2 => ../../
+replace github.com/Chi-Iroh/chroma/v2 => ../../
